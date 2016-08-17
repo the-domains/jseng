@@ -1,0 +1,14 @@
+layout_spectrum: 0.2759857
+typography_spectrum: 0.6057348
+color:
+  saturation: 0.4784946
+  lightness: 0.7060932
+  brandStrength: 0.4498208
+  brandColors:
+    - '#4F6E83'
+    - '#6D5C50'
+    - '#B7CDE4'
+    - '#9BB6D0'
+    - '#483A2E'
+  rhythmicContrast: 0.5953874
+name: 'Jseng '
